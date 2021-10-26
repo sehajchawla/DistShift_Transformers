@@ -23,5 +23,5 @@ The data that is being referred to on the notebooks is all in the following Goog
 
 For any questions, email any of the following:
 * Sehaj Chawla (Harvard University): sehajchawla@g.harvard.edu
-* Eduardo Boratto (MIT Sloan): eboratto@mit.edu
-* Joanne Im (MIT Sloan): joanneim@mit.edu
+* Iddo Drori (MIT): nsingh1@mit.edu
+* Nikhil Singh (MIT): idrori@mit.edu
